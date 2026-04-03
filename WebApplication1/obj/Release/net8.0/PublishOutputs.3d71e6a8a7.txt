@@ -1,0 +1,7 @@
+D:\sukhmanpreet_Exam2_solution\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.exe
+D:\sukhmanpreet_Exam2_solution\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\sukhmanpreet_Exam2_solution\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\sukhmanpreet_Exam2_solution\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.dll
+D:\sukhmanpreet_Exam2_solution\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.deps.json
+D:\sukhmanpreet_Exam2_solution\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+D:\sukhmanpreet_Exam2_solution\WebApplication1\WebApplication1\obj\Release\net8.0\PubTmp\Out\WebApplication1.pdb
